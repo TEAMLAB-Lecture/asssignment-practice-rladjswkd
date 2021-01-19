@@ -1,7 +1,7 @@
 def addition(a, b):
     # '''
     # Input:
-   5 #   -a: 실수 값 (Integer or float)
+    #   -a: 실수 값 (Integer or float)
     #   -b: 실수 값 (Integer or float)
     # Output:
     #   -두 값의 합
